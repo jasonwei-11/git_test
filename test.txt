@@ -1,6 +1,3 @@
-test for add
-test
-test for rest -soft
--hard
-
+test for merge
+try to solve conflict
 
