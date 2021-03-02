@@ -1,3 +1,8 @@
 test for merge
 try to solve conflict
+test for add
+test
+test for rest -soft
+-hard
+test3 for merge
 
